@@ -2,6 +2,7 @@
 % Please edit documentation in R/batchtma.R
 \docType{package}
 \name{batchtma}
+\alias{batchtma-package}
 \alias{batchtma}
 \title{batchtma: Methods to address batch effects}
 \description{
@@ -26,8 +27,17 @@ Stopsack KH, Tyekucheva S, Wang M, Gerke TA, Vaselkiv JB, Penney KL,
 Kantoff PW, Finn SP, Fiorentino M, Loda M, Lotan TL, Parmigiani G+,
 Mucci LA+ (+ equal contribution). Extent, impact, and mitigation of
 batch effects in tumor biomarker studies using tissue microarrays.
-bioRxiv 2021.06.29.450369; doi: https://doi.org/10.1101/2021.06.29.450369
+eLife 2021;10:e71265. doi: https://doi.org/10.7554/elife.71265
 }
 \seealso{
 \url{https://stopsack.github.io/batchtma/}
+}
+\author{
+\strong{Maintainer}: Konrad Stopsack \email{stopsack@post.harvard.edu} (\href{https://orcid.org/0000-0002-0722-1311}{ORCID})
+
+Authors:
+\itemize{
+  \item Travis Gerke \email{gerket@mskcc.org} (\href{https://orcid.org/0000-0002-9500-8907}{ORCID})
+}
+
 }
